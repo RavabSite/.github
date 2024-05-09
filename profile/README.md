@@ -10,7 +10,7 @@ At Rvab, we believe in the power of collaboration and knowledge sharing. Our mis
 
 We welcome contributions from developers of all backgrounds and skill levels. If you're interested in joining our organization or contributing to our projects, here's how you can get involved:
 
-1. Explore our [GitHub repositories](https://github.com/rvab) to find projects that interest you.
+1. Explore our [GitHub repositories](https://github.com/RavabSite) to find projects that interest you.
 2. Fork the repository of the project you'd like to contribute to.
 3. Make your changes and improvements.
 4. Submit a pull request to the main repository for review.
